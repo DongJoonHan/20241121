@@ -1,4 +1,4 @@
-# 도구 정
+# 도구 정리
 
 # 파일의 고유값 확인 (체크섬)
 ## 실행 명령
@@ -45,6 +45,10 @@ SH: off, 1, 2, 3
 - 실제 다운 위치: https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.3.0.6-1/java-17-openjdk-17.0.3.0.6-1.win.x86_64.msi
 
 # CPD
+# 다운로드
+6.55.0이 CPD를 사용 가능하다.
+https://sourceforge.net/projects/pmd/files/pmd/6.55.0/pmd-bin-6.55.0.zip/download
+
 ## 실행 명령
 실행 시, 소스코드 폴더(분석 대상 폴더)의 대소문자가 동일해야 함!!
 
